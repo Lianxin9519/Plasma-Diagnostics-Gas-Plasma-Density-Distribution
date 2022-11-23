@@ -1,4 +1,4 @@
-# Density-Distribution-Plasma-Diagnostics
+# Plasma Diagnostics- Gas/Plasma Density Distribution
 
 This project describes a numerical method used to construct the density distribution of a gas/plasma from the Mach Zehnder type interferometer fringes. Refractive index changes by gas molecules and plasma are characterized by the shifts of interfering fringes, which creates a 2D phase map. The gas/plasma density distribution is reconstructed from the phase map gradient, as described in the inverse Abel transformation method.
 
